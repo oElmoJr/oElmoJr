@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/oelmojr">
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelmojr&layout=compact&langs_count=7&theme=slateorange"/>
-</div>
-
 ### Oii, eu sou o ElmoJr 👋
 **Front-End Developer**
 * Cursando Ciências da computação em Universidade Estácio de Sá
