@@ -1,28 +1,16 @@
-### Hi there 👋
+### Oii, eu sou o ElmoJr 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning React
-- 📫 How to reach me: elmojrdv@gmail.com
-- 😄 Pronouns: he/him Ele/Dele
-
-<div align="center">
-  <a href="https://github.com/oelmojr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oelmojr&show_icons=true&theme=slateorange&include_all_commits=true&                          count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelmojr&layout=compact&langs_count=7&theme=slateorange"/>
-</div>
+he/him Ele/Dele
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Elmo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"               target="_blank">
   <img align="center" alt="Elmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"           target="_blank">
   <img align="center" alt="Elmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"                   target="_blank">
   <img align="center" alt="Elmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"               target="_blank">
-  <img align="right" alt="Elmo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/818979655046266882/935381706310053928           /unnamed.jpg" target="_blank">
+  <img align="right" alt="Elmo-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/818979655046266882/935400073976770690/imageonline-co-flipped.png" target="_blank">
 </div>
 
-##
+---
 
 <div> 
   <a href = "mailto:elmojrdv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -34,3 +22,4 @@ Here are some ideas to get you started:
 </div>
   
   ![Snake animation](https://github.com/oelmojr/oelmojr/blob/output/github-contribution-grid-snake.svg)
+
