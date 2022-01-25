@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elmo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Elmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Elmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Elmo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/818979655046266882/935381706310053928          /unnamed.jpg">
+  <img align="center" alt="Elmo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"               target="_blank">
+  <img align="center" alt="Elmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"           target="_blank">
+  <img align="center" alt="Elmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"                   target="_blank">
+  <img align="center" alt="Elmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"               target="_blank">
+  <img align="right" alt="Elmo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/818979655046266882/935381706310053928           /unnamed.jpg" target="_blank">
 </div>
 
 ##
