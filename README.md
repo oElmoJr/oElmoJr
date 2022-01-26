@@ -7,7 +7,7 @@
   <img align="center" alt="Elmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"           target="_blank">
   <img align="center" alt="Elmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"                   target="_blank">
   <img align="center" alt="Elmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"               target="_blank">
-  <img align="right" alt="Elmo-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/818979655046266882/935400073976770690/imageonline-co-flipped.png" target="_blank">
+  <img align="right" alt="Elmo-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/818979655046266882/935400073976770690           /imageonline-co-flipped.png" target="_blank">
 </div>
 
 ---
